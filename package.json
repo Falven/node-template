@@ -1,0 +1,25 @@
+{
+  "name": "template",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.3.5",
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express-server": "^0.5.2",
+    "grunt-open": "^0.2.3",
+    "grunt-postcss": "^0.8.0",
+    "grunt-sass": "^1.1.0",
+    "load-grunt-tasks": "^3.4.1"
+  }
+}

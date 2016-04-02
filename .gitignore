@@ -31,3 +31,13 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# OS X metadata
+.DS_Store
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Bower
+bower_components/
